@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/potluck/static/css/main.3f122b58.chunk.css",
+    "main.js": "/potluck/static/js/main.dcd335d9.chunk.js",
+    "main.js.map": "/potluck/static/js/main.dcd335d9.chunk.js.map",
+    "runtime~main.js": "/potluck/static/js/runtime~main.1ea487c3.js",
+    "runtime~main.js.map": "/potluck/static/js/runtime~main.1ea487c3.js.map",
+    "static/js/2.c56677ec.chunk.js": "/potluck/static/js/2.c56677ec.chunk.js",
+    "static/js/2.c56677ec.chunk.js.map": "/potluck/static/js/2.c56677ec.chunk.js.map",
+    "index.html": "/potluck/index.html",
+    "precache-manifest.6b13e17c918b19ee3a2f1fef8d9b832e.js": "/potluck/precache-manifest.6b13e17c918b19ee3a2f1fef8d9b832e.js",
+    "service-worker.js": "/potluck/service-worker.js",
+    "static/css/main.3f122b58.chunk.css.map": "/potluck/static/css/main.3f122b58.chunk.css.map",
+    "static/media/spinner.gif": "/potluck/static/media/spinner.5e02af51.gif"
+  }
+}
