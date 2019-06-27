@@ -20,7 +20,7 @@ export default () => {
 		<div className="app">
 			<header>
 				<div className="wrapper">
-					<h1>Potluck</h1>
+					<h1>Potluck App</h1>
 				</div>
 			</header>
 

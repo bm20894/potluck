@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6abc2555b73a7cb86dd64c5551916eed",
+    "revision": "d41e0e5d9be2de59dde97f667034dc62",
     "url": "/potluck/index.html"
   },
   {
-    "revision": "3f61c2aa24cd682476bc",
+    "revision": "87685333cb5bd6b7df82",
     "url": "/potluck/static/css/main.3f122b58.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/potluck/static/js/2.c56677ec.chunk.js"
   },
   {
-    "revision": "3f61c2aa24cd682476bc",
-    "url": "/potluck/static/js/main.dcd335d9.chunk.js"
+    "revision": "87685333cb5bd6b7df82",
+    "url": "/potluck/static/js/main.63eab958.chunk.js"
   },
   {
     "revision": "4b27f419fb7eb6db973b",
